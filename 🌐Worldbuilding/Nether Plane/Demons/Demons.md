@@ -1,4 +1,5 @@
 ---
+banner: "![[Demons.png]]"
 title: Demons
 type: Meta
 date created: Monday, December 11th 2023, 1:18:30 pm

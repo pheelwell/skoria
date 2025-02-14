@@ -1,4 +1,5 @@
 ---
+banner: "![[darkspear_bg.png]]"
 dg-publish: true
 type: Faction
 status: seed

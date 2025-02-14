@@ -1,14 +1,8 @@
 ---
-banner: "![[Ral.png]]"
-banner_y: 0.24
-title: Nosaia
-date created: Thursday, June 27th 2024, 1:41:31 am
-date modified: Friday, June 28th 2024, 12:05:46 am
----
 title: Nosaia
 date created: Saturday, February 3rd 2024, 10:24:28 am
 date modified: Sunday, June 16th 2024, 1:01:21 am
-banner: "![[Ral.png]]"
+banner: "![[R_BG.png]]"
 ---
 
 **Nosaia: The Continent of Contrast**

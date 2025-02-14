@@ -14,7 +14,7 @@ title: Melmorwich
 type: Settlement
 status: Seed
 date created: Friday, October 6th 2023, 7:41:44 pm
-date modified: Thursday, December 14th 2023, 1:41:27 pm
+date modified: Sunday, February 9th 2025, 10:55:59 am
 ---
 
 The chilling wind whistles through the decaying streets of Melmorwich, a city of darkness and death that teems with unsettling activity. Undead creatures roam the alleys, mingling with humans who have either been turned into zombies or serve their undead masters. It's a place where the living and the dead coexist in an unnatural harmony, bound together by the iron grip of their enigmatic ruler.

@@ -1,4 +1,5 @@
 ---
+banner: "![[Deathens Fall.png]]"
 title: Deathens Fall
 type: Continent
 date created: Friday, December 8th 2023, 10:57:06 pm

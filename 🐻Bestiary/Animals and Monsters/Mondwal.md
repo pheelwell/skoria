@@ -4,8 +4,8 @@ date created: Wednesday, October 18th 2023, 10:23:59 pm
 date modified: Thursday, December 14th 2023, 12:21:53 am
 ---
 
-Der Mondwal lebt in den Gewässern in ganz [[Skoria]]. Er lebt im Einklang mit der Mondmagie und der Arkanen Energie die überall in [[Skoria]] zu finden ist. Er kann sich im Fall der Fälle sogar von der Arkanen Energie ernähren. Der Mondwal steht für die Magie um uns herum und das erschaffen von etwas neuem durch Magie. [[Luniam]] hat diese Tiere geschaffen um die Mondmagie zu stärken. 
+The Moon Whale lives in the waters throughout [[Skoria]]. It lives in harmony with moon magic and the arcane energy that can be found everywhere in [[Skoria]]. If necessary, it can even feed on the arcane energy. The Moon Whale symbolizes the magic around us and the creation of something new through magic. [[Luniam]] created these creatures to strengthen moon magic.
 
-Der Mondwal ist ein einzigartiges Tier und nur selten anzutreffen. Er sieht einem gemeinen Blauwal ähnlich, kann sogar größer werden. An seinen Seiten hat er eine besondere einzigartige Musterung. Diese leuchtet in einem angenehmen blau oder lila auf wenn das Tier von magischer Energie jeglicher Art erfüllt wird. 
+The Moon Whale is a unique animal and is rarely encountered. It resembles a common blue whale, but can grow even larger. It has a special, unique pattern on its sides. This pattern glows in a pleasant blue or purple when the creature is filled with magical energy of any kind.
 
 ![[Mondwaal.png]]

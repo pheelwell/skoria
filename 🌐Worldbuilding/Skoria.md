@@ -1,10 +1,11 @@
 ---
 title: Skoria
 date created: Thursday, June 27th 2024, 1:15:43 am
-date modified: Thursday, June 27th 2024, 1:20:14 am
+date modified: Sunday, February 9th 2025, 11:04:11 am
 ---
 
-![[Skoria, the world beneath the nether2.0.jpg]]# Welcome to Skoria
+![[Skoria, the world beneath the nether2.0.jpg]]
+# Welcome to Skoria
 
 Welcome, traveler, to the mystical world of Skoria. This land is full of secrets, history, and wonder. Within this guide, you'll uncover knowledge about the captivating cities and cultures within Skoria. Prepare yourself for a journey through a land shaped by divine forces and cataclysmic events.
 
@@ -54,3 +55,5 @@ The presence of divine forces has also led to the rise of religious orders and c
 ## Conclusion
 
 Skoria is a land shaped by divine intervention and cataclysmic events that have left their mark on its inhabitants. As you explore this rich world filled with secrets, history, and wonder, remember that every step you take could lead to untold adventures and challenges. Embrace the unknown and forge your own path through the mystical world of Skoria.
+
+

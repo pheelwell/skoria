@@ -1,7 +1,4 @@
 ---
-banner: "![[Echon Isles.png]]"
----
----
 dg-publish: true
 title: Echo Isles
 type: Region
