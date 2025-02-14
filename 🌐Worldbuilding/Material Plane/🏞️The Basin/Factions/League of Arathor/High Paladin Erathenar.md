@@ -13,7 +13,7 @@ title: High Paladin Erathenar
 type: NPC
 Ideals: Justice, honor, loyalty, courage, integrity
 date created: Friday, October 6th 2023, 7:41:44 pm
-date modified: Sunday, June 16th 2024, 12:32:09 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 Erathenar is the leader of the [[League of Arathor]] and the High Paladin of [[Lichtachte]]. He is a just and honorable man, and he will stop at nothing to protect his people. He is a skilled warrior and a powerful paladin, and he has led the League to many victories against the [[Defilers]].

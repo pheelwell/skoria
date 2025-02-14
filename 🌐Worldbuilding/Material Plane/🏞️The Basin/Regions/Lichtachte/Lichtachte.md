@@ -14,7 +14,7 @@ sum:
 title: Lichtachte
 type: Settlement
 date created: Friday, October 6th 2023, 7:41:43 pm
-date modified: Thursday, June 27th 2024, 1:20:15 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 banner: "![[Lichtachte.png]]"
 ---
 ## Overview
@@ -48,12 +48,16 @@ Nearby [[Trollbans Hold]] also relies on Lichtachte for support and protection f
 - *Living Murals*: The walls of Lichtachte's Unique buildings are adorned with intricate murals that depict historical events, legends, or scenes of everyday life. These murals are magically animated and can be occasionally seen changing or moving as if they were alive.
 - *allowed Grounds*: The soil beneath Lichtachte has been consecrated by generations of faithful followers of Arathor. This sacred connection strengthens the city's defenses against dark forces and allows its citizens to draw upon divine power when needed.
 
-
 Add a Location description for the Cathedral of Light with intricate details, sections, politics and feels, history. 
+
 	- Lichtachte was rebuilt after big attack, fortified with high walls.
+
 		- Walls have statues of [[Arathor]] the god of light and righteousness. It feels towering
+
 		- streets are vibrant with Light and flower bukets on side
+
 		- Small temples of Arathor, name 3 Guilds
+
 	- List Key 5 Key Locations a Librarian would know when he worked there
 
 ### Cathedral of Light

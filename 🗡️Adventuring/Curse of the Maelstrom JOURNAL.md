@@ -1,7 +1,7 @@
 ---
 title: Curse of the Maelstrom JOURNAL
 date created: Thursday, December 14th 2023, 12:07:12 am
-date modified: Thursday, December 14th 2023, 12:21:53 am
+date modified: Saturday, February 15th 2025, 12:14:34 am
 ---
 
 ## Chapter 1: New Scholars of Evermore

@@ -7,7 +7,7 @@ sum:
 title: The Sons (burglars crew)
 type: Faction
 date created: Friday, October 6th 2023, 7:41:43 pm
-date modified: Sunday, June 16th 2024, 12:48:43 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 The sons are the break-in crew of [[The Lost Hops]], led by [[Dad]]. They are a group of skilled thieves and burglars. The sons specialize in lockpicking and breaking into homes and shops. They are quick on their feet and very stealthy. The sons work in small teams of 2-3 people.

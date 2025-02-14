@@ -2,7 +2,7 @@
 banner: "![[Levia-Atmosphere.png]]"
 title: Levia
 date created: Thursday, December 14th 2023, 12:02:12 am
-date modified: Thursday, June 27th 2024, 1:20:15 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 ## Geography
 ### Notable Settlements:

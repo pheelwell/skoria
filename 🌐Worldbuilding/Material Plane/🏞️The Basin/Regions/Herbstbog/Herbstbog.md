@@ -3,7 +3,7 @@ dg-publish: true
 title: Herbstbog
 type: Settlement
 date created: Friday, October 6th 2023, 7:41:44 pm
-date modified: Thursday, December 14th 2023, 1:41:27 pm
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 *The city of Herbstbog, a beacon of magical knowledge and trade, stands proud with its autumnal trees that never change color. Its streets descend towards the bustling harbor, where the echoes of sailors and merchants fill the air. The city holds many secrets, some sought by those who wish to uncover the truth or gain power, others hidden away to protect the innocent.*

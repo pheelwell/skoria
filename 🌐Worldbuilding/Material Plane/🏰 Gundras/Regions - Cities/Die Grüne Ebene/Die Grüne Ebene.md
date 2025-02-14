@@ -1,9 +1,11 @@
 ---
 dg-publish: true
-title: Echo Isles
+title: Die Grüne Ebene
 type: Region
 status: seed
 banner: "![[.png]]"
+date created: Monday, July 15th 2024, 8:32:12 pm
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 ## Geography
 ### Notable Settlements:

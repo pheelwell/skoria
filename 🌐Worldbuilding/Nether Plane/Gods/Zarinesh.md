@@ -7,7 +7,7 @@ sum:
 dg-publish: true
 title: Zarinesh
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Thursday, June 27th 2024, 1:20:14 am
+date modified: Saturday, February 15th 2025, 12:14:34 am
 ---
 
 ![[Depiction of Zarinesh.png]]

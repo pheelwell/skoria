@@ -15,7 +15,7 @@ sum:
 status: Sprout
 title: Divine Pantheon
 date created: Thursday, June 27th 2024, 1:15:43 am
-date modified: Thursday, June 27th 2024, 1:20:14 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 ## Twins of Luminance: [[Sori]], [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]]
@@ -47,9 +47,9 @@ Together, [[Sori]] and [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]]
 Carillea and Nomphis represent a harmonious yet dynamic balance between movement and stillness, action and steadfastness. Together, they shape the cycles of the natural and mortal worlds:
 
 - **Carillea’s breezes** constantly push against **Nomphis’ rock**, symbolizing the tension between motion and stability.
-    
+	
 - Carillea’s winds might herald the dawn, ushering in new opportunities, while Nomphis’ unwavering presence anchors the dusk, providing a space for rest and reflection.
-    
+	
 - Their partnership reflects the journey of mortals: the push to explore new horizons tempered by the need for stability and enduring values.
 
 ## Twins of Order & Chaos: [[Arathor]], [[Umbrial]]

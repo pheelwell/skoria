@@ -9,7 +9,7 @@ sum:
   - Sun and Lunar Magic can only be used in its full potential in Gundras, where the big Magic Nodes are located
 title: Sun Magic and Lunar Magic (Divine Magic)
 date created: Thursday, June 27th 2024, 1:15:43 am
-date modified: Thursday, June 27th 2024, 1:20:15 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 ## Overview
 

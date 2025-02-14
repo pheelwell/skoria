@@ -1,7 +1,7 @@
 ---
 title: Irasnian Wastes Oneshot
 date created: Friday, October 6th 2023, 6:33:43 pm
-date modified: Thursday, December 14th 2023, 1:41:26 pm
+date modified: Saturday, February 15th 2025, 12:14:34 am
 ---
 ## The Desert Crawler Heist: A D&D Adventure Module
 

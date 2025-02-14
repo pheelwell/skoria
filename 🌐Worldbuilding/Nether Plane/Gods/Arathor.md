@@ -9,7 +9,7 @@ sum:
   - Ascended to godhood through unwavering determination and belief in justice
 title: Arathor
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Thursday, December 14th 2023, 1:41:27 pm
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 - Domain: Justice
 - Associated Element: Light

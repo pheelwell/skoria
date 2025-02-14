@@ -9,7 +9,7 @@ sum:
 title: General Malachi
 type: NPC
 date created: Friday, October 6th 2023, 7:41:44 pm
-date modified: Monday, December 11th 2023, 5:57:47 pm
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 Malachi is the leader of the [[Defilers]], and a powerful sorcerer. She was exiled from [[Lichtachte]] for her experiments with necromancy, but she has since amassed a great army of undead soldiers and orcs. She is a strong leader, and she defends her people with everything that she has. Her most controversial invention was called "The Plage" which she used to create many undead people after a big attack on [[Lichtachte]] by hordes of zombies.

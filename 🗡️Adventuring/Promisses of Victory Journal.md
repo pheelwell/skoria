@@ -1,7 +1,7 @@
 ---
 title: Promisses of Victory Journal
 date created: Friday, October 6th 2023, 6:38:52 pm
-date modified: Friday, December 15th 2023, 1:08:22 pm
+date modified: Saturday, February 15th 2025, 12:14:34 am
 ---
 ## Journal
 

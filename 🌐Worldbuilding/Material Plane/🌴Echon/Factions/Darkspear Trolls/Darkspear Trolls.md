@@ -5,5 +5,5 @@ type: Faction
 status: seed
 title: Darkspear Trolls
 date created: Wednesday, October 18th 2023, 10:23:59 pm
-date modified: Thursday, December 14th 2023, 12:21:54 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---

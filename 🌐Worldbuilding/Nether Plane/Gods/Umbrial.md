@@ -15,7 +15,7 @@ ownership:
 status: sprout
 title: Umbrial
 date created: Friday, October 6th 2023, 6:38:58 pm
-date modified: Thursday, December 14th 2023, 1:41:26 pm
+date modified: Saturday, February 15th 2025, 12:14:34 am
 ---
 > [!quote] Umbrial's laughter echoes through the shadows, bringing chaos and discord to all who hear it. Yet, his influence has waned, and now he is but a whisper in the darkness.
 ## Overview

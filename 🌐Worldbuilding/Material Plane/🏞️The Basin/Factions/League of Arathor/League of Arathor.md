@@ -10,7 +10,7 @@ sum:
 title: League of Arathor
 type: Faction
 date created: Friday, October 6th 2023, 7:41:44 pm
-date modified: Thursday, December 14th 2023, 12:21:54 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 The League of Arathor is a coalition of mostly humans that formed to fight back against the undead legions of the [[Defilers]]. The League is led by [[High Paladin Erathenar]], a human paladin from the city of [[Trollbans Hold]].

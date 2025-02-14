@@ -12,7 +12,7 @@ sum:
 title: Duesternest
 type: Settlement
 date created: Friday, October 6th 2023, 7:41:43 pm
-date modified: Friday, December 15th 2023, 1:08:23 pm
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 > [!quote] Ah, Duesternest, a city of culture and fine craftsmanship! I can't wait to visit the Rising Phenix, I heard it's quite the experience!" - A traveling merchant

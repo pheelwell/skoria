@@ -3,7 +3,7 @@ dg-publish: true
 title: Cult of the Gifted Ones (Class)
 type: Meta
 date created: Friday, October 6th 2023, 7:41:44 pm
-date modified: Thursday, December 14th 2023, 1:41:26 pm
+date modified: Saturday, February 15th 2025, 12:14:34 am
 ---
 
 You can choose [[The Gifted]] Ones subclass for the Priest class.[[The Gifted.md#Naruun|Naruun]] is an ancient forgotten old god. People seek him in the deepest moments of despair, to beg for his gifts. And for some whos desires are strong enougth, he also returns those bids.

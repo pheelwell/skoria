@@ -3,7 +3,7 @@ dg-publish: true
 type: NPC
 title: Gargula
 date created: Friday, October 6th 2023, 6:39:54 pm
-date modified: Thursday, December 14th 2023, 1:41:27 pm
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 Gargula is a mysterious, black-clothed old lady who sees omens and sells magical trinkets in the small town of [[Falk]].

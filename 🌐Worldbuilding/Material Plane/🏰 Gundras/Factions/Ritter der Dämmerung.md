@@ -1,4 +1,10 @@
+---
+title: Ritter der Dämmerung
+date created: Thursday, August 1st 2024, 11:12:13 pm
+date modified: Saturday, February 15th 2025, 12:14:35 am
+---
 Die Ritter der Dämmerung sind eine Vereinigung von Schmieden und Rittern. Unter ihnen sind sehr viele Anhänger der Fogweaver.
+
 Sie haben ihre Fertigkeiten verfeinert und ihren Ruf als unerschütterliche Verteidiger Erenos' gefestigt. Sie sind bekannt für ihre Tapferkeit, ihr Pflichtbewusstsein und ihre Loyalität gegenüber dem Land und seinen Bewohnern.
 
 Hierarchie und Struktur

@@ -3,7 +3,7 @@ dg-publish: true
 title: Shadow Hunter
 type: Meta
 date created: Friday, October 6th 2023, 7:41:44 pm
-date modified: Thursday, December 14th 2023, 1:41:26 pm
+date modified: Saturday, February 15th 2025, 12:14:34 am
 ---
 
 You can choose the **Shadow Hunter** subclass for the **Rogue** class. 

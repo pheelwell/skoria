@@ -5,7 +5,7 @@ sum: "Zarinesh's Hand is a colossal stone hand in the Irasnian Wastes, believed 
 status: tree
 title: Zarineshs Hand
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Thursday, June 27th 2024, 1:23:11 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 As you join a group of pilgrims on their climb up the massive stone fingers of Zarinesh's Hand, you can feel an aura of reverence growing among your companions. When you finally reach the top, standing at the monument's zenith sends a chill down your spine as you realize how close you have come to divinity itself.

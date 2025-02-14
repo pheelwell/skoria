@@ -1,7 +1,7 @@
 ---
 title: Levian Octari
 date created: Thursday, December 14th 2023, 12:05:23 am
-date modified: Thursday, December 14th 2023, 12:21:54 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 The Levian Octari are a formidable humanoid species with distinctive octopus-like lower bodies, known for their warrior spirit and their role in safeguarding the land of [[Skoria]] from the malevolent beasts trapped in the Sea of Beasts. 

@@ -3,7 +3,7 @@ dg-publish: true
 title: Prosnen
 type: Settlement
 date created: Friday, October 6th 2023, 7:41:43 pm
-date modified: Friday, June 28th 2024, 12:36:00 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 sum: []
 banner: "![[Prosnen01.png]]"
 ---

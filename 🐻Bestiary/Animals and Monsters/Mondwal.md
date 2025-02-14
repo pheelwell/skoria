@@ -1,7 +1,7 @@
 ---
 title: Mondwal
 date created: Wednesday, October 18th 2023, 10:23:59 pm
-date modified: Thursday, December 14th 2023, 12:21:53 am
+date modified: Saturday, February 15th 2025, 12:14:34 am
 ---
 
 The Moon Whale lives in the waters throughout [[Skoria]]. It lives in harmony with moon magic and the arcane energy that can be found everywhere in [[Skoria]]. If necessary, it can even feed on the arcane energy. The Moon Whale symbolizes the magic around us and the creation of something new through magic. [[Luniam]] created these creatures to strengthen moon magic.

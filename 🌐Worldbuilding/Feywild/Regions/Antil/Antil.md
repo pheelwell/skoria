@@ -2,8 +2,9 @@
 type: Settlement
 title: Antil
 date created: Monday, February 10th 2025, 2:29:29 pm
-date modified: Monday, February 10th 2025, 2:30:32 pm
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
+
 Nestled deep within the labyrinthine depths of the [[🌐Skoria/🌐Worldbuilding/Other Planes/Feywild|Feywild]], the underground town of Antil thrives in a mesmerizing dance of life and death. Ruled by Istak’lon, the Archfey of Autumn, this enigmatic settlement is a testament to the beauty of decay and the resilience of rebirth. Below lies a chronicle of Antil’s wonders, where time itself bends to the rhythm of an eternal cycle.
 
 ![[Antil Map.png]]
@@ -41,5 +42,3 @@ The Withering: Mortals caught in the Ashen Wane age decades in moments. Those wh
 Symbiotic Predators: Rotwolves (carrion-eating pack hunters) and sporehawsks (fungal avians) stalk the decaying zones.
 
 The Unbroken: A cult of mortals seeking to halt the cycle, sabotaging rebuilds and hoarding cycle-seeds. Istak’lon tolerates them as “a fascinating blight”—for now.
-
-

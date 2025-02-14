@@ -4,7 +4,7 @@ dg-publish: true
 status: sprout
 title: Ergon
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Thursday, June 27th 2024, 1:31:39 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 > [!quote] "The people of Ergon are like cacti in the desert - resilient, adaptable, and able to make use of every resource at their disposal." - A proud Ergonian citizen
