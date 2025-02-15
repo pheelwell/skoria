@@ -5,7 +5,7 @@
 		{"type":"group","id":"732b751164332f6c","x":-240,"y":1280,"width":960,"height":4000,"label":"Chaotic"},
 		{"type":"group","id":"1dfc7dad6c19a4cd","x":2320,"y":1280,"width":880,"height":4000,"label":"Lawfull"},
 		{"type":"file","file":"🌐Skoria/🌐Worldbuilding/General/Arcane Magic.md","id":"5977bdb608319125","x":-160,"y":480,"width":400,"height":400},
-		{"type":"file","file":"🌐Skoria/🌐Worldbuilding/General/Sun Magic and Lunar Magic.md","id":"bdd98df42b475dde","x":400,"y":480,"width":400,"height":400},
+		{"type":"file","file":"🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Sun Magic and Lunar Magic.md","id":"bdd98df42b475dde","x":400,"y":480,"width":400,"height":400},
 		{"type":"text","text":"Nether Plane","id":"2f741acc0658f0a6","x":-440,"y":440,"width":250,"height":60,"color":"3"},
 		{"type":"text","text":"Material  Plane","id":"eda4fa021c112a93","x":-440,"y":540,"width":250,"height":60},
 		{"type":"file","file":"🌐Skoria/🌐Worldbuilding/Nether Plane/Divine Pantheon.md","id":"e030deb0b8ee9f22","x":-2560,"y":3520,"width":2120,"height":2400},

@@ -1,7 +1,7 @@
 ---
 title: Nether Plane
 date created: Wednesday, December 27th 2023, 5:41:03 pm
-date modified: Saturday, February 15th 2025, 12:14:34 am
+date modified: Wednesday, December 27th 2023, 10:03:43 pm
 ---
 
 In the cosmos of this realm, the gods hold sway over the forces that govern the world. These divine beings exist in pairs, each representing opposing forces, and they maintain a cosmic balance that allows life to flourish. As an adventurer in this world, understanding the rules and axioms that govern these gods will be crucial to your journey.

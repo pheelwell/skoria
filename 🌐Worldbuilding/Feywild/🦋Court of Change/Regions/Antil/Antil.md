@@ -1,11 +1,12 @@
 ---
+banner: "![[Antil.jpg]]"
 type: Settlement
 title: Antil
 date created: Monday, February 10th 2025, 2:29:29 pm
-date modified: Saturday, February 15th 2025, 12:14:35 am
+date modified: Saturday, February 15th 2025, 1:31:24 am
 ---
 
-Nestled deep within the labyrinthine depths of the [[🌐Skoria/🌐Worldbuilding/Other Planes/Feywild|Feywild]], the underground town of Antil thrives in a mesmerizing dance of life and death. Ruled by Istak’lon, the Archfey of Autumn, this enigmatic settlement is a testament to the beauty of decay and the resilience of rebirth. Below lies a chronicle of Antil’s wonders, where time itself bends to the rhythm of an eternal cycle.
+Nestled deep within the labyrinthine depths of the [[🌐Skoria/🌐Worldbuilding/Planes of marginal importance/Feywild|Feywild]], the underground town of Antil thrives in a mesmerizing dance of life and death. Ruled by Istak’lon, the Archfey of Autumn, this enigmatic settlement is a testament to the beauty of decay and the resilience of rebirth. Below lies a chronicle of Antil’s wonders, where time itself bends to the rhythm of an eternal cycle.
 
 ![[Antil Map.png]]
 

@@ -3,7 +3,7 @@ dg-publish: true
 type: Meta
 title: Example Site
 date created: Friday, October 6th 2023, 6:38:58 pm
-date modified: Saturday, February 15th 2025, 12:14:35 am
+date modified: Thursday, December 14th 2023, 1:41:27 pm
 banner: "![[Zarineshian Temple.png]]"
 ---
 

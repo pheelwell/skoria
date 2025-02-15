@@ -1,7 +1,7 @@
 ---
 title: Note Structure Guidelines
 date created: Friday, October 6th 2023, 6:38:52 pm
-date modified: Saturday, February 15th 2025, 12:14:35 am
+date modified: Thursday, June 27th 2024, 1:20:15 am
 ---
 
 ## Folder Structure
