@@ -1,9 +1,4 @@
 ---
-title: Carillea
-date created: Thursday, June 27th 2024, 1:41:32 am
-date modified: Saturday, February 15th 2025, 12:14:35 am
----
----
 type: Deity
 sum:
 - "Title: Princess of Winds"
