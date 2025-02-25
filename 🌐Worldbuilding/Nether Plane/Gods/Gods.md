@@ -15,7 +15,7 @@ sum:
 status: Sprout
 title: Gods
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Saturday, February 15th 2025, 12:14:35 am
+date modified: Monday, December 11th 2023, 6:19:10 pm
 ---
 
 ## Twins of Luminance: [[Sori]], [[Luniam]]
