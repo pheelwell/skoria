@@ -1,4 +1,7 @@
 ---
+banner: "![[Great Vault.png]]"
+---
+---
 dg-publish: true
 dg-skoria-home: true
 permalink: /

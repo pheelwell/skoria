@@ -1,4 +1,7 @@
 ---
+banner: "![[fantasy_cobbled_street_bright_day_concept_art_by_Chr.png]]"
+---
+---
 dg-publish: true
 sum:
 - The Lost Hops is a secret underground smuggling operation

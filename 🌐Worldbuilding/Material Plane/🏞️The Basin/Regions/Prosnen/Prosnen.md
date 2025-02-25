@@ -1,4 +1,7 @@
 ---
+banner: "![[Prosnen01.png]]"
+---
+---
 dg-publish: true
 title: Prosnen
 type: Settlement
@@ -12,7 +15,7 @@ banner: "![[Prosnen01.png]]"
 
 ## Notable Locations:
 
-1. **The Necromancer Memorial**: The big Obelisk located in the center of Prosnen. In rememberance of the fallen and turned People of Prosnen and Lichtachte and the cruel rituals of the Malachi. 
+1. **The Malachi Memorial**: The big Obelisk located in the center of Prosnen. In rememberance of the fallen and turned People of Prosnen and Lichtachte and the cruel rituals of the Malachi. 
 2. **The Sanctum for the living**: A temple dedicated to the gods of light and protection, built to honor those who fell during the Malachis attack.
 3. **The Citadel of Vigilance**: Headquarters of the undead-killing force, heavily fortified and equipped with the latest anti-undead weaponry.
 4. **The Green Market**: A bustling marketplace known for its fresh produce, herbs, and magical items and other essentials.

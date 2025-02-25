@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"file","file":"🌐Skoria/Pictures/Tree.png","id":"c5ff9bf452897379","x":120,"y":-154,"width":400,"height":267},
+		{"type":"text","text":"Gundras\n","id":"8b0f8d459228ab17","x":-280,"y":-154,"width":250,"height":60},
+		{"type":"file","file":"🌐Skoria/🌐Worldbuilding/Material Plane/🏰 Gundras/Regions - Cities/Tiebel.md","id":"c3c61558b5b743f8","x":-1000,"y":-760,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e742cd5c888f9a6f","fromNode":"8b0f8d459228ab17","fromSide":"bottom","toNode":"c5ff9bf452897379","toSide":"left"}
+	]
+}

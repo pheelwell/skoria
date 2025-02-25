@@ -11,10 +11,11 @@ Die Stadt ist auf einem Berg auf einer Insel in einem verseuchten See. Um in die
 ![[Undercity_01.png]]
 
 ## Notable Locations:
+Alles ist die Mine, oder auch Unterstadt von Yndrah. 
 - 
 
 ## Notable Figures:
-- 
+- Ilarium. Ilarium ist ein weiches Material das wie Erz abgebaut wird. Es ist von organischer Herkunft und wächst in der Unterstadt, weshalb es immer geerntet werden muss. Es kann Alchemistisch viele Zutaten ersetzen, wie zum Beispiel die seltene Mindflayer Gehirnmasse aus denen verschiedenste Tränke hergestellt werden können (wie zum Beispiel Tränke die die Gedanken beruhigen, Gedanken kontrollieren können, Schmerzmittel oder wie Drogen wirken)
 
 ## Politics and Economy:
 

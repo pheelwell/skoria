@@ -1,4 +1,5 @@
 ---
+banner: "![[Lichtachte.png]]"
 dg-publish: true
 sum:
 - Located in the center of [[The Basin]] and ruled by League of Arathor
@@ -22,14 +23,15 @@ Lichtachte is a bastion of light in the otherwise dark and troubled lands of [[T
 
 ## Geography
 
-Lichtachte is situated in the northeast of [[The Basin]]. To the north lies [[Maerhof]], while [[Prosnen]] can be found within the Deep Forest to the west. [[Faern]] lies to the east and connects Lichtachte to the [[Silent River]] that flows through [[The Basin]].
+Lichtachte is situated in the northeast of [[The Basin]]. To the north lies [[Maerhof]], while [[Prosnen]] can be found not far to the west next to the big fields. [[Faern]] lies to the east and connects Lichtachte to the [[Silent River]] that flows through [[The Basin]].
 
 Nearby [[Trollbans Hold]] also relies on Lichtachte for support and protection from potential threats.
 
 ## Key Locations
 
 1. *Cathedral of Light*: This grand cathedral serves as a beacon for those seeking sanctuary from darkness in Lichtachte. It is devoded to [[Arathor]] and it houses the powerful artifact [[Sundawn]], which is hidden from plain sight. Located at the heart of Lichtachte, this fortified building also serves as both a stronghold and meeting place for members of [[League of Arathor]].
-2. *Grand Library*: An underground library run by [[Ransden]], who seeks knowledge on how to regain his humanity after being turned into an undead soldier by General [[General Malachi.md|Malachi]]'s Plague.
+2. *Grand Library*: A giant library under the big cathedral. It holds books which contain almost every knowledge also forbidden knowledge.
+	The underground library was run by [[Ransden]], who seeks knowledge on how to regain his humanity after being turned into an undead soldier by General [[General Malachi.md|Malachi]]'s Plague. (40 years ago)
 
 ## Notable Figures
 
@@ -40,7 +42,7 @@ Nearby [[Trollbans Hold]] also relies on Lichtachte for support and protection f
 
 - *[[League of Arathor]]*: A group dedicated to upholding justice and protecting the people of Lichtachte from threats such as General [[General Malachi.md|Malachi]]'s [[Defilers]]. They have earned respect throughout [[The Basin]] for their valor in battle.
 - *The Lost Hops*: A faction of skilled brewers and alchemists who have turned their talents towards creating unique magical potions and elixirs from rare ingredients found in [[The Basin]]. They operate from a hidden brewery within Lichtachte and are known for their exceptional ale, which is rumored to grant temporary magical abilities to those who consume it.
-
+- The people in [[Prosnen]] rely on [[Lichtachte]]. They have a trading association. In Prosnen, many edible things are cultivated in the fields while Lichtachte serves in holy requirements and safety for [[Prosnen]]. They have a good relationship.
 ## Features
 
 - *Sunlit Streets*: The streets of Lichtachte are magically illuminated with a soft, warm light that mimics sunlight, bathing the city in eternal daylight. This feature not only provides a sense of security and comfort for the citizens but also weakens any undead creatures that may venture too close to the city.
