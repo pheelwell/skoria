@@ -1,5 +1,8 @@
 ---
 banner: "![[Antil.jpg]]"
+---
+---
+banner: "![[Antil.jpg]]"
 type: Settlement
 title: Antil
 date created: Monday, February 10th 2025, 2:29:29 pm

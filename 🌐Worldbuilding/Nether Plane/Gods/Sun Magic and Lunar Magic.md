@@ -8,6 +8,7 @@ sum:
   - Lunar Magic refers to the twilight and the tides
   - Sun and Lunar Magic can only be used in its full potential in Gundras, where the big Magic Nodes are located
 title: Sun Magic and Lunar Magic
+type: Region/Settlement, Locality, NPC, SideNPC, Faction, History, Arc, Plot, Scene, Thing, Deity
 date created: Wednesday, October 18th 2023, 10:23:59 pm
 date modified: Friday, December 15th 2023, 1:08:23 pm
 ---
