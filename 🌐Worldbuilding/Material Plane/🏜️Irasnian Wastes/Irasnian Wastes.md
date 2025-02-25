@@ -11,7 +11,7 @@ sum:
 status: sprout
 title: Irasnian Wastes
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Thursday, June 27th 2024, 1:31:39 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 type: Continent
 banner: "![[Irasnian Wastes.png]]"
 banner_y: 0.692

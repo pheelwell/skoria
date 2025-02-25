@@ -7,7 +7,7 @@ sum:
 title: Mom
 type: NPC
 date created: Friday, October 6th 2023, 7:41:43 pm
-date modified: Thursday, June 27th 2024, 1:20:15 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 ![Fire Genasi Artificer](_Mom.png)

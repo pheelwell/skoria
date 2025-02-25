@@ -11,7 +11,7 @@ sum:
 status: sprout
 title: Gandmuehl
 date created: Thursday, June 27th 2024, 1:15:43 am
-date modified: Thursday, June 27th 2024, 1:31:39 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 The sun sets over the small town of Gandmühl, casting a warm glow on the elven faces that bustle through the streets. The scent of freshly baked bread fills the air, drawing travelers from far and wide to taste its legendary flavor. But beneath this idyllic surface, tensions simmer between those who wish to preserve the town's heritage and those who seek progress through tourism.

@@ -9,7 +9,7 @@ sum:
 title: Defilers
 type: Faction
 date created: Friday, October 6th 2023, 7:41:44 pm
-date modified: Thursday, December 14th 2023, 1:41:27 pm
+date modified: Saturday, February 15th 2025, 12:09:13 am
 ---
 
 The Defilers were formed in the wake of a great tragedy, when a powerful necromancer named [[General Malachi.md|Malachi]] was exiled from her home in [[Lichtachte]]. Desperate and alone, [[General Malachi.md|Malachi]] was determined to make a new life for herself, free from persecution. To that end, she traveled to [[The Basin]] and set up camp with her loyal followers, who had also been exiled from their homes.

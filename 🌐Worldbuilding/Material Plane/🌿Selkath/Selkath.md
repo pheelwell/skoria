@@ -2,7 +2,7 @@
 banner: "![[ViewOverSelkath.png]]"
 title: Selkath
 date created: Thursday, December 14th 2023, 12:02:12 am
-date modified: Thursday, December 14th 2023, 1:41:27 pm
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 ## Notable Settlements:
 - [[Alzivar]]: A Mage Tower, located more far from the rest of Selkath. 

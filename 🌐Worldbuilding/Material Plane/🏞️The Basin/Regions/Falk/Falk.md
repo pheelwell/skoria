@@ -13,7 +13,7 @@ sum:
   - Notable citizens include Dr. Phalando, an energetic mayor, magical twin elf children, and Gargula (old lady who sells magical trinkets)
   - Local threats include wild animals like bears and wolves, as well as occasional goblin sightings
 date created: Friday, October 6th 2023, 6:39:54 pm
-date modified: Thursday, December 14th 2023, 12:21:54 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
 
 Falk is a small, remote town nestled in the south of Basin's Forest, west of [[Duesternest]]. It was initially established as a logging community but has since grown to include a diverse population of hunters, craftsmen, and even some undead members known as the [[Defilers]]. The town's economy primarily depends on logging and hunting, with occasional trade from passing merchants. Falk is also known for its weekly competitions that attract travelers from far and wide.

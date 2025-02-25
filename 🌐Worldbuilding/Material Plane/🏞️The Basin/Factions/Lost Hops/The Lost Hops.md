@@ -14,7 +14,7 @@ sum:
 title: The Lost Hops
 type: Faction
 date created: Friday, October 6th 2023, 7:41:43 pm
-date modified: Sunday, June 16th 2024, 12:43:30 am
+date modified: Saturday, February 15th 2025, 12:14:35 am
 banner: "![[fantasy_cobbled_street_bright_day_concept_art_by_Chr.png]]"
 ---
 

@@ -1,16 +1,21 @@
-### The Mai Bos: Guardians of the Bosque Forest
+---
+title: Mai Bos
+date created: Thursday, August 1st 2024, 11:12:13 pm
+date modified: Saturday, February 15th 2025, 12:14:35 am
+---
+## The Mai Bos: Guardians of the Bosque Forest
 
-#### General Information
+### General Information
 
 The Mai Bos are a revered group of nature guardians rooted in the Bosque Forest. They are named in honor of their founder, Mai, a kind-hearted huntress and the daughter of the village chief. According to legend, Mai was blessed at birth by a powerful druidess of Sori, granting her an extraordinary connection to nature. This connection, along with her nurturing spirit, made her the ideal leader of the Mai Bos.
 
-#### Culture
+### Culture
 
 The culture of the Mai Bos is deeply entwined with the rhythms of nature. They revere the forest and the creatures that inhabit it, seeing themselves as the custodians and protectors of the natural order. Under Mai's guidance, only those with a strong connection to nature are inducted into the ranks of the Mai Bos.
 
 A significant aspect of their culture is the close bond each member forms with a specific animal native to the Bosque Forest. This bond is not merely emotional but often mental, as exemplified by Mai and her extraordinary wolfhound. These animals are not just companions but partners with whom the Mai Bos share a symbiotic relationship.
 
-#### Society
+### Society
 
 The Mai Bos serve as both warriors and healers of the forest. They wear ritual gloves adorned with a metal plate engraved with the symbol of the animal to which they are bonded. This glove signifies their status and their commitment to nature.
 
