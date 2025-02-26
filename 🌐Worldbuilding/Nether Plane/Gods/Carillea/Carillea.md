@@ -11,7 +11,7 @@ date created: Friday, October 6th 2023, 6:38:58 pm
 date modified: Thursday, December 14th 2023, 12:21:54 am
 --- 
 
-![[shared_ai_account_Concept_art_portrait_of_a_radiant_deity_embod_8991d96e-48dd-4295-9d1d-2d8516776ea5.png]]
+![[shared_ai_account_Concept_art_portrait_of_a_radiant_deity_embod_8991d96e-48dd-4295-9d1d-2d8516776ea5.png|300]]
 
 [[Carillea]] represents the winds of _change_ and _exploration_, encouraging mortals to embrace curiosity and venture into the unknown. Their domain includes adaptability, the pursuit of discovery, and the restlessness that drives innovation. Carillea is the patron of travelers, explorers, and visionaries who dare to seek out uncharted territories, whether they are physical, intellectual, or emotional.
 

@@ -4,6 +4,8 @@ title: Selkath
 date created: Thursday, December 14th 2023, 12:02:12 am
 date modified: Saturday, February 15th 2025, 12:14:35 am
 ---
+
+![[ViewOverSelkath.png]]
 ## Notable Settlements:
 - [[Alzivar]]: A Mage Tower, located more far from the rest of Selkath. 
 - [[Diamoure]]: The Capital of Selkath. 

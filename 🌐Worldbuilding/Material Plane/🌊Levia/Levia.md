@@ -1,12 +1,14 @@
 ---
 banner: "![[Levia-Atmosphere.png]]"
 title: Levia
+status: sprout
+type: Region
 date created: Thursday, December 14th 2023, 12:02:12 am
 date modified: Thursday, June 27th 2024, 1:20:15 am
 ---
 ## Geography
 ### Notable Settlements:
-- [[The Watergates]]: Giant gates to control water traffic.
+- [[🌐Skoria/🌐Worldbuilding/Material Plane/🌊Levia/Regions/The Watergates|The Watergates]] : Giant gates to control water traffic.
 - [[Levia]]: The Capital of [[Levia]]
 
 ### Scenery and Climate:
@@ -16,6 +18,8 @@ Levia's scenery is a mesmerizing blend of architectural ingenuity and natural be
 Levia's climate is characterized by a temperate maritime influence due to its proximity to the water. Winters are mild, with gentle breezes and occasional rainfall. Summers are warm, but never scorching, offering perfect conditions for outdoor activities. The city receives its fair share of rainfall, which is collected and utilized for various purposes, making it largely self-sustaining.
 
 ### Flora and Fauna:
+
+The [[Cepha]], [[Levian Octari]], [[Storm Elves]] and [[Naga]] call Levia their homes.
 
 Floating Gardens: Levia boasts a unique ecosystem of floating gardens, where a myriad of plant species thrive. Water lilies, lotus flowers, and reeds grace the surface, creating a picturesque and serene atmosphere. These gardens are also home to various waterfowl, from graceful swans to vibrant kingfishers.
 

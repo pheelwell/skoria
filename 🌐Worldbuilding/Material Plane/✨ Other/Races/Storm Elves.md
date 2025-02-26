@@ -1,5 +1,7 @@
 ---
+banner: "![[StormElf01.png]]"
 title: Storm Elves
+type: Thing
 date created: Thursday, December 14th 2023, 12:05:23 am
 date modified: Saturday, February 15th 2025, 12:14:35 am
 banner: "![[StormElf01.png]]"

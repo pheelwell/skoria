@@ -1,0 +1,1 @@
+Eine Art Armee von Levia. Hochausgebildete Soldaten die sich um die Sicherheit von Levia kümmern indem sie das [[Mee]] verteidigen und die Monster aus der Tiefe da halten wo sie hingehören.

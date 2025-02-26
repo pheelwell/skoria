@@ -1,5 +1,8 @@
 ---
 banner: "![[Basin_bg.png]]"
+---
+---
+banner: "![[Basin_bg.png]]"
 dg-publish: true
 dg-hide-in-graph: true
 title: The Basin
